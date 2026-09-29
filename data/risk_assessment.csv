@@ -1,0 +1,6 @@
+Condition,RMS,Peak,Dominant_Frequency_Hz,ML_Status,Risk_Score,Risk_Level,Safety_Telltale,Recommendation
+Normal,0.1168620348477503,0.305495927800268,5.0,Normal,0.14390446218514225,NORMAL,SAFE,Vibration pattern is within the simulated normal range.
+Rough_Road,0.288354121697161,0.873158815890615,8.0,Normal,0.3285170312542643,NORMAL,SAFE,Vibration pattern is within the simulated normal range.
+High_Vibration,0.6149085428138594,1.5878202011603402,15.0,Normal,0.6413423150599045,WARNING,CHECK CHASSIS,Abnormal vibration detected. Inspect chassis and joints.
+Loose_Joint,0.5086136990903671,1.2193762766088754,22.0,Normal,0.6131728084609869,WARNING,CHECK CHASSIS,Abnormal vibration detected. Inspect chassis and joints.
+Structural_Anomaly,0.9187616239716871,2.4850692267460035,25.0,Anomaly,1.0,CRITICAL,STOP / INSPECT,High abnormal vibration pattern. Detailed chassis inspection recommended.

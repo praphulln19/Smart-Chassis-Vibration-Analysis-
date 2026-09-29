@@ -1,0 +1,6 @@
+Condition,Total_Windows,Anomaly_Windows,Anomaly_Rate_Percent
+Normal,30,3,10.0
+Rough_Road,30,30,100.0
+High_Vibration,30,30,100.0
+Loose_Joint,30,30,100.0
+Structural_Anomaly,30,30,100.0
